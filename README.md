@@ -1,2 +1,3 @@
 # ml-course
-Yandex Machine Learning coursera
+Solutions for ML course by yandex: 
+https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie/
